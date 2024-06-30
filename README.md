@@ -6,3 +6,5 @@
 006 How Rendering Works The Render Phase
 007 How Rendering Works The Commit Phase
 008 How Diffing Works
+009 Diffing Rules in Practice
+010 The Key Prop
