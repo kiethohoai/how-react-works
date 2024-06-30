@@ -11,3 +11,4 @@
 011 Resetting State With the Key Prop
 012 Using the Key Prop to Fix Our Eat-_N-Split App
 013 Rules for Render Logic Pure Components
+014 State Update Batching
