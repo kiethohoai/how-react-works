@@ -9,3 +9,4 @@
 009 Diffing Rules in Practice
 010 The Key Prop
 011 Resetting State With the Key Prop
+012 Using the Key Prop to Fix Our Eat-_N-Split App
