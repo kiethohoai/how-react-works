@@ -8,3 +8,4 @@
 008 How Diffing Works
 009 Diffing Rules in Practice
 010 The Key Prop
+011 Resetting State With the Key Prop
