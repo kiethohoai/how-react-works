@@ -4,3 +4,5 @@
 004 Instances and Elements in Practice
 005 How Rendering Works Overview
 006 How Rendering Works The Render Phase
+007 How Rendering Works The Commit Phase
+008 How Diffing Works
