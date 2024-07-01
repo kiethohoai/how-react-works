@@ -15,3 +15,4 @@
 015 State Update Batching in Practice
 016 How Events Work in React
 017 Libraries vs. Frameworks & The React Ecosystem
+018 Section Summary Practical Takeaways
