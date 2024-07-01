@@ -16,3 +16,6 @@
 016 How Events Work in React
 017 Libraries vs. Frameworks & The React Ecosystem
 018 Section Summary Practical Takeaways
+
+#12 - Effects and Data Fetching
+001 Section Overview
